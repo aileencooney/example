@@ -1,4 +1,4 @@
 # example
 Demo repo for GitHub Grad Course
 
-Editing in local & cycling back to the remote
+Editing in local & cycling back to the remote repo.
